@@ -1,6 +1,6 @@
-# project-beam
+# OOP Course Project - Online Game Market: BEAM
 
-## OOP Course Project
+## C++ written Steam Demo Console App
 
 ### 📀 Download the exe file:<a href="beam_project/project_beam.exe" download> Click to Download</a>
 
